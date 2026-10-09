@@ -1,2 +1,2 @@
 #Hacking documentations
-# This would be the repository for my hacking
+# This would be the repository for hacking
